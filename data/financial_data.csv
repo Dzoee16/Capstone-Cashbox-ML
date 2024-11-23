@@ -1,0 +1,101 @@
+Time,Income/Expense,Category,Nominal
+2024-10-03 12:35:47,income,lain lain,900000
+2024-09-17 04:22:18,income,gaji,8500000
+2024-10-03 19:18:53,expense,transportasi,500000
+2024-08-15 03:46:55,expense,hiburan,400000
+2024-06-18 16:08:16,expense,lain lain,350000
+2024-09-26 21:42:06,income,uang orang tua,850000
+2024-09-01 21:23:37,income,uang orang tua,400000
+2024-07-04 10:28:35,expense,belanja,300000
+2024-10-01 09:43:37,expense,makan,500000
+2024-10-11 01:10:31,income,lain lain,600000
+2024-07-23 21:31:37,income,lain lain,50000
+2024-08-31 16:16:41,expense,makan,350000
+2024-06-23 18:37:09,income,gaji,10000000
+2024-07-28 01:54:19,expense,hiburan,50000
+2024-07-23 20:42:24,expense,tagihan,500000
+2024-07-29 20:19:50,income,lain lain,400000
+2024-06-27 10:07:21,expense,transportasi,100000
+2024-08-28 15:36:03,expense,makan,350000
+2024-06-11 15:27:05,expense,lain lain,200000
+2024-06-26 04:18:24,expense,transportasi,300000
+2024-06-12 05:32:50,income,lain lain,300000
+2024-07-17 08:44:45,expense,hiburan,500000
+2024-08-14 19:10:20,income,lain lain,250000
+2024-08-21 03:09:10,expense,tagihan,250000
+2024-09-09 15:51:43,income,gaji,8000000
+2024-09-15 12:42:59,income,uang orang tua,500000
+2024-08-20 13:43:50,expense,makan,300000
+2024-10-21 16:01:21,expense,tagihan,500000
+2024-09-07 11:03:59,expense,belanja,350000
+2024-09-18 07:29:42,expense,transportasi,300000
+2024-09-19 02:35:01,expense,hiburan,150000
+2024-10-20 12:44:05,expense,hiburan,450000
+2024-07-23 23:33:59,income,gaji,5000000
+2024-07-14 10:04:42,expense,hiburan,400000
+2024-07-31 04:01:14,income,uang orang tua,450000
+2024-09-26 20:51:20,expense,hiburan,500000
+2024-06-08 15:03:27,expense,tagihan,350000
+2024-08-12 19:25:55,expense,belanja,450000
+2024-08-25 02:09:01,expense,transportasi,450000
+2024-08-24 21:42:56,expense,makan,100000
+2024-08-07 13:49:05,expense,transportasi,150000
+2024-07-26 05:43:54,expense,belanja,450000
+2024-07-06 09:06:40,expense,tagihan,500000
+2024-08-28 07:36:58,expense,lain lain,100000
+2024-06-02 17:25:09,income,gaji,4000000
+2024-07-07 14:34:29,income,lain lain,150000
+2024-06-10 11:02:09,expense,hiburan,500000
+2024-09-18 05:33:20,expense,makan,100000
+2024-06-08 14:59:24,income,uang orang tua,1500000
+2024-10-21 21:30:46,expense,makan,350000
+2024-10-20 17:57:26,expense,tagihan,150000
+2024-08-06 17:52:20,expense,hiburan,150000
+2024-09-05 01:21:18,expense,makan,50000
+2024-08-15 02:29:24,expense,hiburan,450000
+2024-10-24 20:12:11,expense,lain lain,350000
+2024-07-07 08:23:47,expense,belanja,350000
+2024-10-26 19:55:42,expense,transportasi,450000
+2024-07-17 16:30:12,income,lain lain,750000
+2024-07-11 15:23:38,income,uang orang tua,250000
+2024-08-15 22:48:23,expense,hiburan,100000
+2024-10-12 13:29:32,expense,transportasi,100000
+2024-09-04 16:43:34,expense,makan,400000
+2024-08-23 06:02:08,income,uang orang tua,550000
+2024-08-22 18:55:40,expense,lain lain,50000
+2024-08-28 15:57:13,income,gaji,7500000
+2024-07-04 11:55:08,expense,lain lain,50000
+2024-08-31 04:20:39,expense,transportasi,500000
+2024-08-13 10:00:04,expense,hiburan,400000
+2024-08-14 00:40:04,income,uang orang tua,500000
+2024-08-04 16:27:20,income,uang orang tua,2000000
+2024-06-27 10:20:26,expense,makan,450000
+2024-09-08 20:26:59,expense,lain lain,150000
+2024-07-01 00:05:05,expense,hiburan,100000
+2024-09-29 19:53:32,expense,transportasi,100000
+2024-10-05 06:35:34,expense,hiburan,300000
+2024-06-29 02:37:07,expense,makan,100000
+2024-10-02 20:18:08,income,gaji,6500000
+2024-10-09 00:27:51,expense,hiburan,50000
+2024-07-31 05:57:12,expense,tagihan,400000
+2024-06-02 16:54:13,expense,hiburan,500000
+2024-08-27 16:13:49,expense,makan,150000
+2024-09-11 13:53:55,income,lain lain,200000
+2024-10-12 12:01:22,expense,hiburan,150000
+2024-07-07 13:52:38,expense,transportasi,250000
+2024-07-13 06:58:58,expense,belanja,400000
+2024-06-17 15:50:05,expense,hiburan,100000
+2024-06-06 21:16:22,expense,makan,100000
+2024-09-08 05:37:13,expense,hiburan,500000
+2024-10-30 13:45:09,expense,transportasi,100000
+2024-06-05 06:01:19,income,gaji,6000000
+2024-06-19 19:41:19,expense,transportasi,400000
+2024-10-29 21:16:51,income,lain lain,650000
+2024-07-07 05:10:52,expense,transportasi,100000
+2024-08-04 07:12:18,income,lain lain,1000000
+2024-06-21 17:21:36,expense,makan,450000
+2024-07-31 18:50:51,income,lain lain,700000
+2024-08-06 17:49:32,expense,transportasi,450000
+2024-06-03 17:01:40,expense,lain lain,250000
+2024-10-30 22:45:48,expense,belanja,150000
+2024-09-10 23:11:19,income,gaji,4500000
